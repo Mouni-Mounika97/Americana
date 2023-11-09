@@ -1,0 +1,5 @@
+GroupName,Description,GroupRole
+AccountingGeneral,Entitlement from Delimited_Provisioning,G1
+AccountsPayable,Entitlement from Delimited_Provisioning,G2
+AccountsReceivable,Entitlement from Delimited_Provisioning,G3
+Admins,Entitlement from Delimited_Provisioning,G4

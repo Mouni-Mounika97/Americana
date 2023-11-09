@@ -1,0 +1,3 @@
+Name,GivenName,Surname,Department,EmployeeID,EmailAddress,NetworkID,manager,inactiveIdentity
+Patrick Jenkins,Patrick,Jenkins,Engineering,1b2a3c,Patrick.Jenkins@sailpointdemo.com,Patrick.Jenkins,1b2a,FALSE
+Albert Woods,Albert1,Woods,Engineering,1b2a3c4e,Albert.Woods@sailpointdemo.com,Albert.Woods,1b2a3c,FALSE

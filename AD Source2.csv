@@ -1,0 +1,14 @@
+Name,FirstName,LastName,Department,EmployeeNo,Email,NetworkID,manager,Role
+Santhoshini Bolladi,Santhoshini,Bolladi,Engineering,1,Sbolladi@eshiam.com,Santhoshini.bolladi,A
+Saleem Mohammed,Saleem,Mohammed,Information Technology,2,Smohammed@eshiam.com,Saleem.Mohammed,1,B
+RajasekharReddy Kandula,RajasekharReddy,Kandula,it,3,Rkandula@eshiam.com,RajasekharReddy.Kandula,2,C
+Srinu lalam,Srinu,lalam,Executive Management,5,Slalam@eshiam.com,Srinu.lalam,3,"A,B,C"
+Ashok Manjunath,Ashok,Manjunath,Inventory,4,Amanjunath@eshiam.com,Ashok.Manjunath,5,D
+Nivedika K,Nivedika,K,Regional Operations,1a2b,Nivedika@eshiam.com,Nivedika.K,5,"A,B"
+Naveen Chandanagiri,Naveen,Chandanagiri,Human Resources,1a2a3b,Nchandanagiri@eshiam.com,Naveen.Chandanagiri,1,"B,C"
+Veehan Chaganti,Veehan,Chaganti,Inventory,1c2c,VChaganti@eshiam.com,Veehan.Chaganti,1,"C,D"
+Aaradhya Chaganti,Aaradhya,Chaganti,Human Resources,1d2d,AChaganti@eshiam.com,Aaradhya.Chaganti,1,"A,C"
+Ayan Varma,Ayan,Varma,Engineering,1e2e,AVarma@eshiam.com,Ayan.Varma,1,"A,D"
+babuAditya,babu,aditya,Engineering,1r2e,babuaditya@eshiam.com,babu.aditya,2,"B,D"
+Krishna Prasad,Krishna,Prasad,EEE,1111,KPrasad@eshiam.com,Krishna.Prasad,2,B
+Vaseem Basha,Vaseem,Basha,Engineering,222,VBasha@eshiam.com,Vaseem.Basha,3,"B,A"

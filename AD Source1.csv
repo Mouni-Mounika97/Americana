@@ -1,0 +1,9 @@
+Name,FirstName,LastName,Department,EmployeeNo,Email,NetworkID,manager
+Santhoshini Bolladi,Santhoshini,Bolladi,Engineering,1a,Sbolladi@eshiam.com,Santhoshini.bolladi,
+Saleem Mohammed,Saleem,Mohammed,Information Technology,1a2a,Smohammed@eshiam.com,Saleem.Mohammed,1a
+RajasekharReddy Kandula,RajasekharReddy,Kandula,it,1a2a3a,Rkandula@eshiam.com,RajasekharReddy.Kandula,1a2a
+Srinu lalam,Srinu,lalam,Executive Management,1a2a3a4a,Slalam@eshiam.com,Srinu.lalam,1a2a3a
+Ashok Manjunath,Ashok,Manjunath,Inventory,1a2a3a4b,Amanjunath@eshiam.com,Ashok.Manjunath,1a2a3a4a
+Nivedika K,Nivedika,K,Regional Operations,1a2b,Nivedika@eshiam.com,Nivedika.K,1a2a3a4b
+Naveen Chandanagiri,Naveen,Chandanagiri,Human Resources,1a2a3b,Nchandanagiri@eshiam.com,Naveen.Chandanagiri,1a
+Sukanya Mannam,Sukanya,Mannam,Inventory,1a2a3b,Smannam@eshiam.com,Sukanya.Mannam,1a2a

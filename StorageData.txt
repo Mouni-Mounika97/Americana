@@ -1,0 +1,9 @@
+1,The,Administrator,null
+1,chandu,v,chandu@gmail.com
+2fname:chandu,lname:v,empno:1,fullname:vepambattuchandu,email:chandu@gmail.com,
+1,sunil,a,sunil@gmail.com
+2fname:sunil,lname:a,empno:2,fullname:anjurusunil,email:sunil@gmail.com,
+1,charan,n,charan@gmail.com
+2fname:charan,lname:n,empno:3,fullname:nuthalapaticharan,email:charan@gmail.com,
+1,shiva,b,shiva@gmail.com
+2fname:shiva,lname:b,empno:4,fullname:bojjashiva,email:shiva@gmail.com,

@@ -1,0 +1,21 @@
+Name,GivenName,lastname,Dept,EmpID,mailAddress,NetworkID,manager,inactiveIdentity,EndDate,place,status,joiningdate
+James Smith,James,Smith1,Engineering,1a,James.Smith@sailpointdemo.com,James.Smith,,FALSE,22-2-22,hyd,active,10/04/2023 ,activeJohnson,Mary,Johnson,Engineering,1a2a,Mary.Johnson@sailpointdemo.com,Mary.Johnson,1a,FALSE,22-2-22,hyd,active,10/04/2023
+Robert Brown,Robert1,Brown,Information Technology,1a2a3aggg,Robert.Brown@sailpointdemo.com,Robert.Browntest,1a2a,FALSE,22-2-22,hyd,active,10/04/2023
+Joseph Thompson,Joseph,Thompson,Information Technology,1a2a3a4a,Joseph.Thompson@sailpointdemo.com,Joseph.Thompson,1a2a3a,FALSE,22-2-22,hyd,active,10/04/2023
+Margaret Garcia,Margaret,Garcia,Information Technology,1a2a3a4b,Margaret.Garcia@sailpointdemo.com,Margaret.Garcia,1a2a3a,FALSE,22-2-22,hyd,active,10/04/2023
+Thomas Martinez,Thomas,Martinez,Information Technology,1a2a3a4c,Thomas.Martinez@sailpointdemo.com,Thomas.Martinez,1a2a3a,FALSE,22-2-22,hyd,active,10/04/2023
+Dorothy Robinson,Dorothy,Robinson,Information Technology,1a2a3a4d,Dorothy.Robinson@sailpointdemo.com,Dorothy.Robinson,1a2a3a,FALSE,22-2-22,hyd,active,10/04/2023
+Christopher Clark,Christopher,Clark,Information Technology,1a2a3a4e,Christopher.Clark@sailpointdemo.com,Christopher.Clark,1a2a3a,FALSE,22-2-22,hyd,active,10/04/202
+Linda Davis,Linda,Davis,Information Technology,1a2a3b,Linda.Davis@sailpointdemo.com,Linda.Davis,1a2a,FALSE,22-2-22,hyd,active,10/04/2023
+Lisa Rodriguez,Lisa,Rodriguez,Information Technology,1a2a3b4a,Lisa.Rodriguez@sailpointdemo.com,Lisa.Rodriguez,1a2a3b,FALSE,22-2-22,hyd,active,10/04/2023
+Daniel Lewis,Daniel,Lewis,Information Technology,1a2a3b4b,Daniel.Lewis@sailpointdemo.com,Daniel.Lewis,1a2a3b,TRUE,22-2-22,hyd,active,10/04/2023
+Nancy Lee,Nancy,Lee,Information Technology,1a2a3b4c,Nancy.Lee@sailpointdemo.com,Nancy.Lee,1a2a3b,FALSE,22-2-22,hyd,active,10/04/2023
+Paul Walker,Paul,Walker,Information Technology,1a2a3b4d,Paul.Walker@sailpointdemo.com,Paul.Walker,1a2a3b,FALSE,22-2-22,hyd,active,10/04/2023
+Karen Hall,Karen,Hall,Information Technology,1a2a3b4e,Karen.Hall@sailpointdemo.com,Karen.Halltest,1a2a3b,TRUE,22-2-22,hyd,active,10/04/2023
+Michael Miller,Michael,Miller,Engineering,1a2a3c,Michael.Miller@sailpointdemo.com,Michael.Miller,1a2a,FALSE,22-2-22,hyd,active,10/04/2023
+Mark Allen,Mark,Allen,Engineering,1a2a3c4a,Mark.Allen@sailpointdemo.com,Mark.Allen,1a2a3c,FALSE,22-2-22,hyd,active,10/04/2023
+Betty Young,Betty,Young,Engineering,1a2a3c4b,Betty.Young@sailpointdemo.com,Betty.Young,1a2a3c,FALSE,22-2-22,hyd,active,10/04/2023
+Donald Hernandez,Donald,Hernandez,Engineering,1a2a3c4c,Donald.Hernandez@sailpointdemo.com,Donald.Hernandez,1a2a3c,FALSE,22-2-22,hyd,active,10/04/2023
+Helen King,Helen,King,Engineering,1a2a3c4d,Helen.King@sailpointdemo.com,Helen.King,1a2a3c,FALSE,22-2-22,hyd,active,10/04/2023
+George Wright,George,Wright,Finance,1a2a3c4e,George.Wright@sailpointdemo.com,George.Wright,1a2a3c,TRUE,22-2-22,hyd,active,10/04/2023
+Barbara Wilson,Barbara1,Wilson,Engineering,1a2a3d,Barbara.Wilson@sailpointdemo.com,Barbara.Wilsontest,1a2a,FALSE,22-2-22,hyd,active,10/04/2023

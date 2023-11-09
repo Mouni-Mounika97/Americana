@@ -1,0 +1,6 @@
+Fname,Lname,Department,InactiveIdentity,EmployeeID,GroupName
+Janvi,Nuthalapati,CSE,TRUE,10,"Cricket,Hocky"
+Mouni,Gottipati,IT,FALSE,11,Chess
+Sevitha,Nuthalapati,EEE,TRUE,12,FootBall
+Dhanvi,Yerramaneni,ECE,TRUE,13,"Cricket,Chess"
+Dakshi,Marripudi,Civil,FALSE,14,"Chess,Carams"

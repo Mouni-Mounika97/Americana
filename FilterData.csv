@@ -1,0 +1,6 @@
+firstname,lastname,manager,region,age,salary,department,place,status,empid,gender
+ravi,g,james smith,northindian,35,100000,information technology,hyd,active,51,male,
+deepu,n,joseph,southindian,40,150000,engineering,pune,inactive,52,female
+teekshi,m,daniel,northamerica,36,125000,mechanical,london,active,53,female
+ayan,k,nancy,southamerica,32,130000,information technology,dubai,inactive,54,male
+anshu,h,thomas,thailand,38,150000,engineering,singapore,active,55,male

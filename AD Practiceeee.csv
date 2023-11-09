@@ -1,0 +1,11 @@
+Name,FirstName,LastName,Department,EmployeeNo,Email,NetworkID,manager
+James Smith,James,Smith,Executive Management,1a,James.Smith1@eshiam.com,James.Smith,
+Mary Johnson,Mary1,Johnson,Regional Operations,1a2a,Mary.Johnson@eshiam.com,Mary.Johnson,1a
+Robert Brown,Robert,Brown,Information Technology,1a2a3a,Robert.Brown@eshiam.com,Robert.Brown,1a2a
+Joseph Thompson,Joseph,Thompson,Information Technology,1a2a3a4a,Joseph.Thompson@eshiam.com,Joseph.Thompson,1a2a3a
+Margaret Garcia,Margaret,Garcia,Information Technology,1a2a3a4b,Margaret.Garcia@eshiam.com,Margaret.Garcia,1a2a3a
+Thomas Martinez,Thomas,Martinez,Information Technology,1a2a3a4c,Thomas.Martinez@eshiam.com,Thomas.Martinez,1a2a3a
+Dorothy Robinson,Dorothy,Robinson,Information Technology,1a2a3a4d,Dorothy.Robinson@eshiam.com,Dorothy.Robinson,1a2a3a
+Christopher Clark,Christopher,Clark,Information Technology,1a2a3a4e,Christopher.Clark@eshiam.com,Christopher.Clark,1a2a3a
+Linda Davis,Linda,Davis,Information Technology,1a2a3b,Linda.Davis@eshiam.com,Linda.Davis,1a2a
+ 

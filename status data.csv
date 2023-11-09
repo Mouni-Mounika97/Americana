@@ -1,0 +1,7 @@
+Name,FirstName,LastName,Department,EmployeeNo,Email,NetworkID,manager,status,type
+JamesSmith,James,Smith,Executive Management,1a,James.Smith1@eshiam.com,James.Smith,active,account
+Mary Johnson,Mary1,Johnson,Regional Operations,1a2a,Mary.Johnson@eshiam.com,Mary.Johnson,1a.inactive,group
+Robert Brown,Robert,Brown,Information Technology,1a2a3a,Robert.Brown@eshiam.com,Robert.Brown,1a2a,active,account
+Joseph Thompson,Joseph,Thompson,Information Technology,1a2a3a4a,Joseph.Thompson@eshiam.com,Joseph.Thompson,1a2a3a,inactive,group
+Margaret Garcia,Margaret,Garcia,Information Technology,1a2a3a4b,Margaret.Garcia@eshiam.com,Margaret.Garcia,1a2a3a,active,account
+Thomas Martinez,Thomas,Martinez,Information Technology,1a2a3a4c,Thomas.Martinez@eshiam.com,Thomas.Martinez,1a2a3a,inactive,group

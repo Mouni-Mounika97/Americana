@@ -1,0 +1,22 @@
+user_id,Name,FirstName,LastName,Department,EmployeeNo,Email,NetworkID,manager
+1,James Smith,James,Smith,Executive Management,1a,James.Smith1@eshiam.com,James.Smith,
+2,Mary Johnson,Mary1,Johnson,Regional Operations,1a2a,Mary.Johnson@eshiam.com,Mary.Johnson,1a
+3,Robert Brown,Robert,Brown,Information Technology,1a2a3a,Robert.Brown@eshiam.com,Robert.Brown,1a2a
+4,Joseph Thompson,Joseph,Thompson,Information Technology,1a2a3a4a,Joseph.Thompson@eshiam.com,Joseph.Thompson,1a2a3a
+5,Margaret Garcia,Margaret,Garcia,Information Technology,1a2a3a4b,Margaret.Garcia@eshiam.com,Margaret.Garcia,1a2a3a
+6,Thomas Martinez,Thomas,Martinez,Information Technology,1a2a3a4c,Thomas.Martinez@eshiam.com,Thomas.Martinez,1a2a3a
+7,Dorothy Robinson,Dorothy,Robinson,Information Technology,1a2a3a4d,Dorothy.Robinson@eshiam.com,Dorothy.Robinson,1a2a3a
+8,Christopher Clark,Christopher,Clark,Information Technology,1a2a3a4e,Christopher.Clark@eshiam.com,Christopher.Clark,1a2a3a
+9,Linda Davis,Linda,Davis,Information Technology,1a2a3b,Linda.Davis@eshiam.com,Linda.Davis,1a2a
+10,Lisa Rodriguez,Lisa,Rodriguez,Information Technology,1a2a3b4a,Lisa.Rodriguez@eshiam.com,Lisa.Rodriguez,1a2a3b
+11,Daniel Lewis,Daniel,Lewis,Information Technology,1a2a3b4b,Daniel.Lewis@eshiam.com,Daniel.Lewis,1a2a3b
+12,Nancy Lee,Nancy,Lee,Information Technology,1a2a3b4c,Nancy.Lee@eshiam.com,Nancy.Lee,1a2a3b
+13,Paul Walker,Paul,Walker,Information Technology,1a2a3b4d,Paul.Walker@eshiam.com,Paul.Walker,1a2a3b
+14,Karen Hall,Karen,Hall,Information Technology,1a2a3b4e,Karen.Hall@eshiam.com,Karen.Hall,1a2a3b
+15,Michael Miller,Michael,Miller,Engineering,1a2a3c,Michael.Miller@eshiam.com,Michael.Miller,1a2a
+16,Mark Allen,Mark,Allen,Engineering,1a2a3c4a,Mark.Allen@eshiam.com,Mark.Allen,1a2a3c 
+17,Betty Young,Betty,Young,Engineering,1a2a3c4b,Betty.Young@eshiam.com,Betty.Young,1a2a3c
+18,Donald Hernandez,Donald,Hernandez,Engineering,1a2a3c4c,Donald.Hernandez@eshiam.com,Donald.Hernandez,1a2a3c
+19,Helen King,Helen,King,Engineering,1a2a3c4d,Helen.King@eshiam.com,Helen.King,1a2a3c
+20,George Wright,George,Wright,Engineering,1a2a3c4e,George.Wright@eshiam.com,George.Wright,1a2a3c
+ 
